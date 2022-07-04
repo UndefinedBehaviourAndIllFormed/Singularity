@@ -1,0 +1,1 @@
+C++20 Project to serve as a utility to learn C++20(modern C++), and develop the singularity AI
